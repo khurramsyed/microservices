@@ -1,0 +1,5 @@
+words: is,am,are,be,have been
+
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+

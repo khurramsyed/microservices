@@ -1,0 +1,9 @@
+words: I,You,He,She,It
+
+server:
+  port: ${PORT:${SERVER_PORT:0}}
+
+
+### To See any properties from config location which is common for multiple applications
+### Create a file named applciation.yml in the source control search location for config
+### server
